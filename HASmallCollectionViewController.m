@@ -86,7 +86,7 @@
     
     
     // Label logo
-    UILabel *logo = [[UILabel alloc] initWithFrame:CGRectMake(15, 12, 290, 0)];
+    UILabel *logo = [[UILabel alloc] initWithFrame:CGRectMake(15, 25, 290, 0)];
     logo.backgroundColor = [UIColor clearColor];
     logo.textColor = [UIColor whiteColor];
     logo.font = [UIFont fontWithName:@"Helvetica-Bold" size:22];
